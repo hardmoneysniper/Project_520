@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir \"f:/Cornell Tech/Coding projects/For 520/photos\")"
+    ],
+    "additionalDirectories": [
+      "f:\\Cornell Tech\\Coding projects\\For 520"
+    ]
+  }
+}
